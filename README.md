@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on [LCanjeamos](https://locanjeamos.com.ar)
 
+- 🎊 Creator on [TiendasLocales](https://www.tiendaslocales.com.ar)
+
 - 💬 Ask me about **React, CSS, PWA, Node.JS**
 
 - 📫 How to reach me **maximilianovalli.sc@gmail.com**
